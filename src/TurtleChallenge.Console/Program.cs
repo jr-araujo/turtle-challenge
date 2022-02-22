@@ -13,7 +13,7 @@ if (string.IsNullOrWhiteSpace(args[0]) || string.IsNullOrWhiteSpace(args[1]))
 
 Console.WriteLine();
 Console.ForegroundColor = ConsoleColor.DarkYellow;
-Console.WriteLine("------------------------- Welcome to GREAT Challenge -------------------------");
+Console.WriteLine("------------------------- Welcome to the GREAT Challenge -------------------------");
 Console.WriteLine(Figgle.FiggleFonts.Doom.Render("Turtle Challenge"));
 Console.WriteLine(new string('-', 75));
 Console.ResetColor();
