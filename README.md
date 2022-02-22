@@ -39,6 +39,6 @@ To run the this game for the first time, it already has configured settings file
 
 After running the app, you should have this output:
 
-![](images\output-after-running.png)
+![](https://github.com/jr-araujo/turtle-challenge/blob/main/images/output-after-running.png)
 
 Congrats! Your app now is running.
